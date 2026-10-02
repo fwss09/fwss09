@@ -1,5 +1,7 @@
 hi
 
+![chart](https://shieldcn.dev/chart/github/commits/fwss09.svg?mode=light&theme=green&font=jetbrains-mono&logo=false)
+
 <!--
 **fwss09/fwss09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
