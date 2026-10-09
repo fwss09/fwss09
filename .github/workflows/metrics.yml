@@ -19,7 +19,7 @@ jobs:
 
           config_padding: 16px, 16px
           
-          extra_css: |
+          extras_css: |
             :host {
               border: 2px dashed #8a2be2;
             }
