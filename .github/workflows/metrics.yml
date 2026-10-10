@@ -17,9 +17,7 @@ jobs:
           template: classic
           base: header, activity, community, metadata
 
-          config_padding: 16px, 16px
-          
-          extras_css: |
-            :host {
-              border: 2px dashed #8a2be2;
-            }
+          plugin_notable: yes
+          plugin_notable_from: organization # варианты: all, organization, user
+          plugin_notable_types: commit, pull_request # учитывать коммиты и ПРы
+          plugin_notable_indepth: yes # включает детальный подсчет (выдаст бейджи со статистикой)
